@@ -1,9 +1,9 @@
 ![Screenshot](thebridgechronicle_2021-02_5fe97c2f-8c88-41b9-aeae-7cf314dce724_zomato_1200x600.avif)
 
 # Breakdown of this notebook:
-# Loading the dataset: 
+## Loading the dataset: 
 Load the data and import the libraries.
-# Data Cleaning:
+## Data Cleaning:
 Deleting redundant columns.
 Renaming the columns.
 Dropping duplicates.
@@ -11,7 +11,7 @@ Cleaning individual columns.
 Remove the NaN values from the dataset
 Some Transformations
 
-# Data Visualization: 
+## Data Visualization: 
 Using plots to find relations between the features.
 Restaurants delivering Online or not
 Restaurants allowing table booking or not
