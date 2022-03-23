@@ -4,12 +4,12 @@
 
 
 
-1. Loading the dataset
+## 1. Loading the dataset
 *  Load the data.
 * import the libraries
 
 
-2.  Data Cleaning
+## 2.  Data Cleaning
 *  Deleting redundant columns.
 * Renaming the columns.
 * Dropping duplicates.
@@ -19,7 +19,7 @@
 
 
 
-3. Data Visualization
+## 3. Data Visualization
 *  Using plots to find relations between the features.
 *  Restaurants delivering Online or not
 * Restaurants allowing table booking or not
