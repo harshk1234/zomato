@@ -25,4 +25,5 @@
 * Restaurants allowing table booking or not
 *  No. of restaurants in a Location
 * Types of Services Relation between Type and Rating Cost of Restuarant 
+* 
 
